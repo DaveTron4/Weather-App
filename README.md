@@ -2,14 +2,14 @@
 
 The Weather App is a mobile application created as part of my Mobile Software Development class during my second year of college. This project showcases essential app development skills such as API integration, responsive UI design, and secure API key management using Dart and Flutter. Originally, the app fetched weather data from a local weather API provided by my previous college, but it now uses the OpenWeather API to retrieve weather information based on the user's location.
 
-🌦️ **About the App**  
+## 🌦️ **About the App**  
 This weather app is designed to provide a seamless and visually appealing user experience:
 
 - Dynamic UI: The app's appearance changes depending on whether it's day or night.  
 - Real-Time Weather: Retrieves current weather conditions based on the user's location.  
 - Customization: Users can switch between Fahrenheit and Celsius for temperature and toggle between 12-hour and 24-hour time formats.
 
-🚀 **Features**  
+## 🚀 **Features**  
 - 🌍 **Location-Based Weather**: Uses the OpenWeather API to fetch weather based on the user's current location.  
 - 🌡️ **Temperature Units**: Toggle between Fahrenheit and Celsius.  
 - 🕒 **Time Format**: Switch between 12-hour and 24-hour formats.  
@@ -18,7 +18,7 @@ This weather app is designed to provide a seamless and visually appealing user e
 - 🖋️ **Custom Fonts**: Utilizes Google Fonts for enhanced typography.  
 - 🔐 **API Key Security**: Manages sensitive information securely using `.env` files.
 
-🛠️ **Technologies Used**  
+## 🛠️ **Technologies Used**  
 - **Programming Language**: Dart  
 - **Framework**: Flutter  
 - **APIs**: OpenWeather API (to fetch weather data)  
@@ -30,7 +30,7 @@ This weather app is designed to provide a seamless and visually appealing user e
   - `lottie` (for weather animations)  
   - `geocoding` (to translate coordinates into readable locations)
 
-📦 **Installation and Setup**  
+## 📦 **Installation and Setup**  
 To run the Weather App on your local device, follow these steps:
 
 1. **Clone the repository**:  
@@ -62,7 +62,7 @@ To run the Weather App on your local device, follow these steps:
     flutter run
     ```
 
-🎓 **Learning Outcomes**  
+## 🎓 **Learning Outcomes**  
 This project helped me:
 
 - Gain experience using Flutter to build mobile applications.
@@ -71,8 +71,8 @@ This project helped me:
 - Enhance user interfaces with Lottie animations and Google Fonts.
 - Explore responsive design techniques for day/night modes and weather conditions.
 
-📜 **License**  
+## 📜 **License**  
 This project is open source and available under the MIT License.
 
-🤝 **Contributing**  
+## 🤝 **Contributing**  
 Feel free to fork this repository, submit issues, or suggest improvements! Contributions are always welcome.
