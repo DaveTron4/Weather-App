@@ -71,6 +71,12 @@ This project helped me:
 - Enhance user interfaces with Lottie animations and Google Fonts.
 - Explore responsive design techniques for day/night modes and weather conditions.
 
+## 🖼️ Screenshot
+
+![alt text](assets/image.png)
+![alt text](assets/image-1.png)
+![alt text](assets/image-2.png)
+
 ## 📜 **License**  
 This project is open source and available under the MIT License.
 
